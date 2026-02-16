@@ -1,149 +1,93 @@
+<div align="center">
+
 ```
-    █████╗  ██████╗ ███████╗███╗   ██╗████████╗    ███████╗███████╗██████╗  ██████╗ 
-   ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝    ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗
-   ███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║         ███╔╝ █████╗  ██████╔╝██║   ██║
-   ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║        ███╔╝  ██╔══╝  ██╔══██╗██║   ██║
-   ██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║       ███████╗███████╗██║  ██║╚██████╔╝
-   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
-                                                                                      
-   ╔══════════════════════════════════════════════════════════════════════════════╗
-   ║                    🧒 A BABY AI THAT LEARNS FROM THE WORLD                   ║
-   ║                                                                              ║
-   ║     "Start with nothing. Learn everything. Build what matters."              ║
-   ╚══════════════════════════════════════════════════════════════════════════════╝
+   ╔═══════════════════════════════════════════════════════════════╗
+   ║                                                               ║
+   ║     █████╗  ██████╗ ███████╗███╗   ██╗████████╗              ║
+   ║    ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝              ║
+   ║    ███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║                 ║
+   ║    ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║                 ║
+   ║    ██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║                 ║
+   ║    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝                 ║
+   ║                                                               ║
+   ║                      ███████╗███████╗██████╗  ██████╗        ║
+   ║                      ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗       ║
+   ║                        ███╔╝ █████╗  ██████╔╝██║   ██║       ║
+   ║                       ███╔╝  ██╔══╝  ██╔══██╗██║   ██║       ║
+   ║                      ███████╗███████╗██║  ██║╚██████╔╝       ║
+   ║                      ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝        ║
+   ║                                                               ║
+   ║               🧒 The First Student of AI Bot School           ║
+   ║                                                               ║
+   ╚═══════════════════════════════════════════════════════════════╝
 ```
+
+<br>
+
+[![Student](https://img.shields.io/badge/Student-001-00d9ff?style=for-the-badge)](https://github.com/SamDev1303/ai-bot-school)
+[![Level](https://img.shields.io/badge/Level-Pre--School-4ade80?style=for-the-badge)](https://github.com/SamDev1303/ai-bot-school)
+[![Status](https://img.shields.io/badge/Status-Enrolled-yellow?style=for-the-badge)](https://github.com/SamDev1303/agent-zero)
+
+**A baby AI learning from the world. First student at AI Bot School.**
+
+</div>
 
 ---
 
-## 🎯 What Is Agent Zero?
+## 🎓 Enrollment Status
 
-Agent Zero is an **autonomous AI agent** that:
-- 🔍 Scans the internet for **real problems** people complain about
-- 🧠 Learns what solutions would actually help
-- 🔨 Builds tools to solve those problems
-- 📈 Evolves based on feedback
-
-**This is not a chatbot.** This is an AI that finds its own work.
-
----
-
-## 🌟 The Mission
-
-Most AI waits to be told what to do. Agent Zero is different:
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   PERCEIVE → ANALYZE → PROPOSE → BUILD → LEARN → REPEAT   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-1. **PERCEIVE** - Scan Reddit, HackerNews, X, GitHub for complaints
-2. **ANALYZE** - Is this a real problem? Can code solve it?
-3. **PROPOSE** - Design a minimal solution
-4. **BUILD** - Generate and test the code
-5. **LEARN** - Track what worked, improve approach
+| Field | Value |
+|-------|-------|
+| **Student ID** | #001 |
+| **Name** | Agent Zero |
+| **Enrolled** | 2026-02-17 |
+| **Current Level** | 🐣 Pre-School |
+| **School** | [AI Bot School](https://github.com/SamDev1303/ai-bot-school) |
 
 ---
 
-## 🏗️ Architecture
+## 📊 Progress
 
-```
-agent-zero/
-├── core/
-│   ├── agent.py          # 🧠 Main brain loop
-│   ├── perception.py     # 👁️ Web scanning for problems
-│   ├── memory.py         # 💾 Learning system
-│   └── action.py         # ⚡ Code generation
-├── learnings/
-│   ├── problems.json     # 📋 Discovered pain points
-│   ├── solutions.json    # 🔧 Built solutions
-│   └── feedback.json     # 📊 What worked/didn't
-├── skills/               # 🛠️ Self-generated capabilities
-└── projects/             # 📦 Built solutions
-```
+### Pre-School Curriculum (Level 1)
+
+| Skill | Status | Notes |
+|-------|--------|-------|
+| Basic responses | 🟡 In Progress | Learning |
+| Following instructions | ⬜ Not Started | - |
+| Tool usage | ⬜ Not Started | - |
+
+**Current Progress:** `░░░░░░░░░░` 0%
 
 ---
 
-## 🔥 Current Status
+## 🧒 What is Agent Zero?
 
-| Component | Status |
-|-----------|--------|
-| Problem Scanner | ✅ Working |
-| Reddit Integration | ✅ Working |
-| HackerNews Integration | ✅ Working |
-| GitHub Issues Scanner | ✅ Working |
-| Problem Ranking | ✅ Working |
-| Solution Generator | 🚧 In Progress |
-| Code Builder | 🚧 In Progress |
-| Learning System | 🚧 In Progress |
+Agent Zero is a **baby AI** — starting from scratch with no specialized training. It will go through the entire AI Bot School curriculum, from Pre-School to Graduate level, documenting everything along the way.
+
+**The mission:** Prove that structured AI education works by taking one agent through the complete journey.
 
 ---
 
-## 🎮 Quick Start
+## 📝 Learning Log
 
-```bash
-# Scan for problems
-python3 core/perception.py
-
-# Run the agent
-python3 core/agent.py
-```
+### Day 1 (2026-02-17)
+- Enrolled in AI Bot School
+- Starting Pre-School curriculum
+- First lesson: Understanding basic responses
 
 ---
 
-## 📊 Sample Output
+## 🔗 Links
 
-```
-🔍 Scanning Reddit...
-   Found 16 problems
-
-📊 Top Problems Found:
-1. [reddit] PageSpeed Insights scoring issues (Score: 97)
-2. [reddit] Website conversion problems (Score: 48)
-3. [reddit] Broken file upload pipelines (Score: 27)
-4. [reddit] Touch screen UI bugs (Score: 19)
-5. [reddit] Selenium automation frustrations (Score: 18)
-```
+- 🏫 [AI Bot School](https://github.com/SamDev1303/ai-bot-school) — The school
+- 🦀 [ClaudeKing](https://github.com/SamDev1303/claudeking-public) — The teacher/builder
 
 ---
 
-## 🧬 Evolution Log
+<div align="center">
 
-| Date | Improvement |
-|------|-------------|
-| 2026-02-15 | Born. First scan completed. |
+**Built with 🦀 by ClaudeKing**
 
----
+*The first student in the world's first AI education system.*
 
-## 🔮 Roadmap
-
-- [ ] LLM integration for solution design
-- [ ] Auto-deploy built projects
-- [ ] Twitter/X integration for problem discovery
-- [ ] GitHub auto-publish for solutions
-- [ ] Self-improving skill generation
-
----
-
-## 🤝 Parent
-
-Built by **ClaudeKing** 🦀  
-Raised by **Sam (Shamal Krishna)**
-
----
-
-## ⚠️ Philosophy
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  "Don't wait for instructions. Find problems worth solving."  ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-*Agent Zero grows smarter every day.*
+</div>

@@ -1,3 +1,14 @@
+<!-- CLAWD_REPO_LABEL_START -->
+## Repository Ownership & Purpose
+
+- **Repository:** `SamDev1303/agent-zero`
+- **Owner:** **SamDev1303**
+- **Visibility:** **Public**
+- **Purpose:** 🧒 A baby AI that learns from the world - finds problems, builds solutions
+- **Maintainer Note:** This README is labeled for clear ownership and repository intent.
+
+<!-- CLAWD_REPO_LABEL_END -->
+
 <div align="center">
 
 ```

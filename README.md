@@ -21,6 +21,34 @@
 
 <!-- CLAWD_REPO_STANDARD_END -->
 
+<!-- CLAWD_README_TEMPLATE_START -->
+## README Standard Navigation
+
+- [Overview](#overview)
+- [Setup](#setup)
+- [Deployment](#deployment)
+- [Ownership](#ownership)
+- [Support](#support)
+
+## Overview
+Brief summary of what this repository does and who it serves.
+
+## Setup
+Document local setup steps, required environment variables, and run commands.
+
+## Deployment
+Document deployment target, branch, and release process.
+
+## Ownership
+Refer to the ownership blocks above for account, purpose, and repository type.
+
+## Support
+Use GitHub Issues for bugs/requests. Add direct contact only if this is private.
+
+<!-- CLAWD_README_TEMPLATE_END -->
+
+
+
 
 
 <div align="center">
